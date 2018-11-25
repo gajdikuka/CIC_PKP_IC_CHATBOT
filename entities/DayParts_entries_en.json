@@ -1,0 +1,63 @@
+[
+  {
+    "value": "Morning",
+    "synonyms": [
+      "Morning",
+      "morning"
+    ]
+  },
+  {
+    "value": "Dawn",
+    "synonyms": [
+      "Dawn",
+      "dawn"
+    ]
+  },
+  {
+    "value": "Noon",
+    "synonyms": [
+      "Noon",
+      "noon"
+    ]
+  },
+  {
+    "value": "Afternoon",
+    "synonyms": [
+      "Afternoon",
+      "afternoon"
+    ]
+  },
+  {
+    "value": "Evening",
+    "synonyms": [
+      "Evening",
+      "evening"
+    ]
+  },
+  {
+    "value": "Night",
+    "synonyms": [
+      "Night",
+      "night"
+    ]
+  },
+  {
+    "value": "Midnight",
+    "synonyms": [
+      "Midnight",
+      "midnight"
+    ]
+  },
+  {
+    "value": "Midday",
+    "synonyms": [
+      "Midday",
+      "midday",
+      "MidDay",
+      "midDay",
+      "mid-day",
+      "Mid-day",
+      "Mid-Day"
+    ]
+  }
+]

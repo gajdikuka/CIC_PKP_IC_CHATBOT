@@ -1,0 +1,55 @@
+{
+  "id": "f9a8f737-81b4-4330-910c-bda8690a9ba1",
+  "name": "maps.current_location",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "maps.current_location",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27d9b8bf-7ca2-41e0-b806-4bb45af923bc",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [],
+          "isList": true
+        },
+        {
+          "id": "2870740c-037a-4f7f-aec6-45919787e076",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You are at $location"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543106721,
+  "fallbackIntent": false,
+  "events": []
+}

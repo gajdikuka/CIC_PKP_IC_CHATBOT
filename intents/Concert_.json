@@ -1,0 +1,28 @@
+{
+  "id": "cf127e13-57a8-4077-9822-62915e8db0d0",
+  "name": "Concert?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Go to Sziget festival with PKP intercity!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543083210,
+  "fallbackIntent": false,
+  "events": []
+}

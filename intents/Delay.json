@@ -1,0 +1,28 @@
+{
+  "id": "b8d5a991-6471-4e96-932d-a69ad74b16a5",
+  "name": "Delay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your train (Nov 24th 16:00 - 19:00) Warsaw to Katowice train is 5 minutes late."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543082286,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "efc4344d-ef8b-4a84-abc7-39214595deb1",
+  "name": "Travel (card)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.pkp",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80807dc0-c10f-4091-908f-f4cd6a1ff634",
+          "required": true,
+          "dataType": "@Stations",
+          "name": "city-2",
+          "value": "$city-2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where do you want to travel? (type list stations to list all stations in Poland)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e1680b30-552b-425e-9bbd-8a98856f86be",
+          "required": true,
+          "dataType": "@Stations",
+          "name": "city-1",
+          "value": "$city-1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where do you take off from? (type list stations to list all stations in Poland)"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "2bd3f6f4-0253-4b66-9fba-ee582a28d3fe",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "5c737d9a-91ec-4543-81a2-007d8b1b89ff",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "fd47efcf-d5b8-46cd-925a-be6fab7f12bf",
+          "required": false,
+          "dataType": "@DayParts",
+          "name": "DayParts",
+          "value": "$DayParts",
+          "isList": false
+        },
+        {
+          "id": "797b8a4e-8bfc-4186-b82e-d7dbfcaca532",
+          "required": false,
+          "dataType": "@Months",
+          "name": "Months",
+          "value": "$Months",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543118279,
+  "fallbackIntent": false,
+  "events": []
+}

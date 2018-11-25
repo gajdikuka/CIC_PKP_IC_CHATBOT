@@ -1,0 +1,1634 @@
+[
+  {
+    "value": "Katowice",
+    "synonyms": [
+      "Katowice"
+    ]
+  },
+  {
+    "value": "Gliwice",
+    "synonyms": [
+      "Gliwice"
+    ]
+  },
+  {
+    "value": "Opole Główne",
+    "synonyms": [
+      "Opole Główne"
+    ]
+  },
+  {
+    "value": "Częstochowa",
+    "synonyms": [
+      "Częstochowa"
+    ]
+  },
+  {
+    "value": "Kraków Główny",
+    "synonyms": [
+      "Kraków Główny"
+    ]
+  },
+  {
+    "value": "Poznań Główny",
+    "synonyms": [
+      "Poznań Główny"
+    ]
+  },
+  {
+    "value": "Gdańsk Główny",
+    "synonyms": [
+      "Gdańsk Główny"
+    ]
+  },
+  {
+    "value": "Gdynia Główna",
+    "synonyms": [
+      "Gdynia Główna"
+    ]
+  },
+  {
+    "value": "Tczew",
+    "synonyms": [
+      "Tczew"
+    ]
+  },
+  {
+    "value": "Szczecin Główny",
+    "synonyms": [
+      "Szczecin Główny"
+    ]
+  },
+  {
+    "value": "Stargard Szczeciński",
+    "synonyms": [
+      "Stargard Szczeciński"
+    ]
+  },
+  {
+    "value": "Bydgoszcz Główna",
+    "synonyms": [
+      "Bydgoszcz Główna"
+    ]
+  },
+  {
+    "value": "Warsaw Central",
+    "synonyms": [
+      "Warsaw Central"
+    ]
+  },
+  {
+    "value": "Warszawa Śródmieście PKP",
+    "synonyms": [
+      "Warszawa Śródmieście PKP"
+    ]
+  },
+  {
+    "value": "Wrocław Główny",
+    "synonyms": [
+      "Wrocław Główny"
+    ]
+  },
+  {
+    "value": "Zawiercie",
+    "synonyms": [
+      "Zawiercie"
+    ]
+  },
+  {
+    "value": "Bielsko-Biała Główna",
+    "synonyms": [
+      "Bielsko-Biała Główna"
+    ]
+  },
+  {
+    "value": "Tarnów",
+    "synonyms": [
+      "Tarnów"
+    ]
+  },
+  {
+    "value": "Rzeszów Główny",
+    "synonyms": [
+      "Rzeszów Główny"
+    ]
+  },
+  {
+    "value": "Lublin",
+    "synonyms": [
+      "Lublin"
+    ]
+  },
+  {
+    "value": "Kielce",
+    "synonyms": [
+      "Kielce"
+    ]
+  },
+  {
+    "value": "Łódź Kaliska",
+    "synonyms": [
+      "Łódź Kaliska"
+    ]
+  },
+  {
+    "value": "Łódź Fabryczna",
+    "synonyms": [
+      "Łódź Fabryczna"
+    ]
+  },
+  {
+    "value": "Skierniewice",
+    "synonyms": [
+      "Skierniewice"
+    ]
+  },
+  {
+    "value": "Olsztyn Główny",
+    "synonyms": [
+      "Olsztyn Główny"
+    ]
+  },
+  {
+    "value": "Leszno",
+    "synonyms": [
+      "Leszno"
+    ]
+  },
+  {
+    "value": "Toruń Główny",
+    "synonyms": [
+      "Toruń Główny"
+    ]
+  },
+  {
+    "value": "Inowrocław",
+    "synonyms": [
+      "Inowrocław"
+    ]
+  },
+  {
+    "value": "Białystok",
+    "synonyms": [
+      "Białystok"
+    ]
+  },
+  {
+    "value": "Słupsk",
+    "synonyms": [
+      "Słupsk"
+    ]
+  },
+  {
+    "value": "Warszawa Ochota",
+    "synonyms": [
+      "Warszawa Ochota"
+    ]
+  },
+  {
+    "value": "Warszawa Wileńska",
+    "synonyms": [
+      "Warszawa Wileńska"
+    ]
+  },
+  {
+    "value": "Grodzisk Mazowiecki",
+    "synonyms": [
+      "Grodzisk Mazowiecki"
+    ]
+  },
+  {
+    "value": "Mińsk Mazowiecki",
+    "synonyms": [
+      "Mińsk Mazowiecki"
+    ]
+  },
+  {
+    "value": "Tłuszcz",
+    "synonyms": [
+      "Tłuszcz"
+    ]
+  },
+  {
+    "value": "Radom",
+    "synonyms": [
+      "Radom"
+    ]
+  },
+  {
+    "value": "Tarnowskie Góry",
+    "synonyms": [
+      "Tarnowskie Góry"
+    ]
+  },
+  {
+    "value": "Myszków",
+    "synonyms": [
+      "Myszków"
+    ]
+  },
+  {
+    "value": "Lubliniec",
+    "synonyms": [
+      "Lubliniec"
+    ]
+  },
+  {
+    "value": "Żywiec",
+    "synonyms": [
+      "Żywiec"
+    ]
+  },
+  {
+    "value": "Czechowice Dziedzice",
+    "synonyms": [
+      "Czechowice Dziedzice"
+    ]
+  },
+  {
+    "value": "Tychy",
+    "synonyms": [
+      "Tychy"
+    ]
+  },
+  {
+    "value": "Rybnik",
+    "synonyms": [
+      "Rybnik"
+    ]
+  },
+  {
+    "value": "Oświęcim",
+    "synonyms": [
+      "Oświęcim"
+    ]
+  },
+  {
+    "value": "Trzebinia",
+    "synonyms": [
+      "Trzebinia"
+    ]
+  },
+  {
+    "value": "Przemyśl Główny",
+    "synonyms": [
+      "Przemyśl Główny"
+    ]
+  },
+  {
+    "value": "Piotrków Trybunalski",
+    "synonyms": [
+      "Piotrków Trybunalski"
+    ]
+  },
+  {
+    "value": "Kutno",
+    "synonyms": [
+      "Kutno"
+    ]
+  },
+  {
+    "value": "Łowicz Główny",
+    "synonyms": [
+      "Łowicz Główny"
+    ]
+  },
+  {
+    "value": "Elbląg",
+    "synonyms": [
+      "Elbląg"
+    ]
+  },
+  {
+    "value": "Iława Główna",
+    "synonyms": [
+      "Iława Główna"
+    ]
+  },
+  {
+    "value": "Ostrów Wielkopolski",
+    "synonyms": [
+      "Ostrów Wielkopolski"
+    ]
+  },
+  {
+    "value": "Zielona Góra",
+    "synonyms": [
+      "Zielona Góra"
+    ]
+  },
+  {
+    "value": "Piła Główna",
+    "synonyms": [
+      "Piła Główna"
+    ]
+  },
+  {
+    "value": "Gorzów Wielkopolski",
+    "synonyms": [
+      "Gorzów Wielkopolski"
+    ]
+  },
+  {
+    "value": "Gdańsk Wrzeszcz",
+    "synonyms": [
+      "Gdańsk Wrzeszcz"
+    ]
+  },
+  {
+    "value": "Sopot",
+    "synonyms": [
+      "Sopot"
+    ]
+  },
+  {
+    "value": "Malbork",
+    "synonyms": [
+      "Malbork"
+    ]
+  },
+  {
+    "value": "Białogard",
+    "synonyms": [
+      "Białogard"
+    ]
+  },
+  {
+    "value": "Koszalin",
+    "synonyms": [
+      "Koszalin"
+    ]
+  },
+  {
+    "value": "Kołobrzeg",
+    "synonyms": [
+      "Kołobrzeg"
+    ]
+  },
+  {
+    "value": "Włocławek",
+    "synonyms": [
+      "Włocławek"
+    ]
+  },
+  {
+    "value": "Jelenia Góra",
+    "synonyms": [
+      "Jelenia Góra"
+    ]
+  },
+  {
+    "value": "Warszawa Zachodnia",
+    "synonyms": [
+      "Warszawa Zachodnia"
+    ]
+  },
+  {
+    "value": "Warszawa Wschodnia",
+    "synonyms": [
+      "Warszawa Wschodnia"
+    ]
+  },
+  {
+    "value": "Warszawa Gdańska",
+    "synonyms": [
+      "Warszawa Gdańska"
+    ]
+  },
+  {
+    "value": "Otwock",
+    "synonyms": [
+      "Otwock"
+    ]
+  },
+  {
+    "value": "Siedlce",
+    "synonyms": [
+      "Siedlce"
+    ]
+  },
+  {
+    "value": "Kędzierzyn Koźle",
+    "synonyms": [
+      "Kędzierzyn Koźle"
+    ]
+  },
+  {
+    "value": "Oborniki Śląskie",
+    "synonyms": [
+      "Oborniki Śląskie"
+    ]
+  },
+  {
+    "value": "Żmigród",
+    "synonyms": [
+      "Żmigród"
+    ]
+  },
+  {
+    "value": "Warszawa Stadion",
+    "synonyms": [
+      "Warszawa Stadion"
+    ]
+  },
+  {
+    "value": "Warszawa Powiśle",
+    "synonyms": [
+      "Warszawa Powiśle"
+    ]
+  },
+  {
+    "value": "Aleksandrów Kujawski",
+    "synonyms": [
+      "Aleksandrów Kujawski"
+    ]
+  },
+  {
+    "value": "Babi Dół",
+    "synonyms": [
+      "Babi Dół"
+    ]
+  },
+  {
+    "value": "Bąk",
+    "synonyms": [
+      "Bąk"
+    ]
+  },
+  {
+    "value": "Barcino",
+    "synonyms": [
+      "Barcino"
+    ]
+  },
+  {
+    "value": "Bargędzino",
+    "synonyms": [
+      "Bargędzino"
+    ]
+  },
+  {
+    "value": "Barnowo",
+    "synonyms": [
+      "Barnowo"
+    ]
+  },
+  {
+    "value": "Będziechowo",
+    "synonyms": [
+      "Będziechowo"
+    ]
+  },
+  {
+    "value": "Bielkowo",
+    "synonyms": [
+      "Bielkowo"
+    ]
+  },
+  {
+    "value": "Bielsko Pomorskie",
+    "synonyms": [
+      "Bielsko Pomorskie"
+    ]
+  },
+  {
+    "value": "Biesowice",
+    "synonyms": [
+      "Biesowice"
+    ]
+  },
+  {
+    "value": "Bińcze",
+    "synonyms": [
+      "Bińcze"
+    ]
+  },
+  {
+    "value": "Biskupnica",
+    "synonyms": [
+      "Biskupnica"
+    ]
+  },
+  {
+    "value": "Błonie",
+    "synonyms": [
+      "Błonie"
+    ]
+  },
+  {
+    "value": "Bolesławiec",
+    "synonyms": [
+      "Bolesławiec"
+    ]
+  },
+  {
+    "value": "Bór",
+    "synonyms": [
+      "Bór"
+    ]
+  },
+  {
+    "value": "Borkowo",
+    "synonyms": [
+      "Borkowo"
+    ]
+  },
+  {
+    "value": "Borzytuchom",
+    "synonyms": [
+      "Borzytuchom"
+    ]
+  },
+  {
+    "value": "Boża Wola",
+    "synonyms": [
+      "Boża Wola"
+    ]
+  },
+  {
+    "value": "Bożepole Wielkie",
+    "synonyms": [
+      "Bożepole Wielkie"
+    ]
+  },
+  {
+    "value": "Brusy",
+    "synonyms": [
+      "Brusy"
+    ]
+  },
+  {
+    "value": "Brwinów",
+    "synonyms": [
+      "Brwinów"
+    ]
+  },
+  {
+    "value": "Brzeźno Człuchowskie",
+    "synonyms": [
+      "Brzeźno Człuchowskie"
+    ]
+  },
+  {
+    "value": "Bukowo Człuchowskie",
+    "synonyms": [
+      "Bukowo Człuchowskie"
+    ]
+  },
+  {
+    "value": "Bytów",
+    "synonyms": [
+      "Bytów"
+    ]
+  },
+  {
+    "value": "Cecenowo",
+    "synonyms": [
+      "Cecenowo"
+    ]
+  },
+  {
+    "value": "Cewice",
+    "synonyms": [
+      "Cewice"
+    ]
+  },
+  {
+    "value": "Chałupy",
+    "synonyms": [
+      "Chałupy"
+    ]
+  },
+  {
+    "value": "Choćmirowo",
+    "synonyms": [
+      "Choćmirowo"
+    ]
+  },
+  {
+    "value": "Choczewko",
+    "synonyms": [
+      "Choczewko"
+    ]
+  },
+  {
+    "value": "Choczewo",
+    "synonyms": [
+      "Choczewo"
+    ]
+  },
+  {
+    "value": "Chojnice",
+    "synonyms": [
+      "Chojnice"
+    ]
+  },
+  {
+    "value": "Chorzew Siemkowice",
+    "synonyms": [
+      "Chorzew Siemkowice"
+    ]
+  },
+  {
+    "value": "Ciecholub",
+    "synonyms": [
+      "Ciecholub"
+    ]
+  },
+  {
+    "value": "Cieplewo",
+    "synonyms": [
+      "Cieplewo"
+    ]
+  },
+  {
+    "value": "Czarna Dąbrówka",
+    "synonyms": [
+      "Czarna Dąbrówka"
+    ]
+  },
+  {
+    "value": "Czarne",
+    "synonyms": [
+      "Czarne"
+    ]
+  },
+  {
+    "value": "Czersk",
+    "synonyms": [
+      "Czersk"
+    ]
+  },
+  {
+    "value": "Człuchów",
+    "synonyms": [
+      "Człuchów"
+    ]
+  },
+  {
+    "value": "Czosnowo",
+    "synonyms": [
+      "Czosnowo"
+    ]
+  },
+  {
+    "value": "Czysta",
+    "synonyms": [
+      "Czysta"
+    ]
+  },
+  {
+    "value": "Dąbrowa Górnicza",
+    "synonyms": [
+      "Dąbrowa Górnicza"
+    ]
+  },
+  {
+    "value": "Dąbrówka Bytowska",
+    "synonyms": [
+      "Dąbrówka Bytowska"
+    ]
+  },
+  {
+    "value": "Damnica",
+    "synonyms": [
+      "Damnica"
+    ]
+  },
+  {
+    "value": "Dargoleza",
+    "synonyms": [
+      "Dargoleza"
+    ]
+  },
+  {
+    "value": "Dęblin",
+    "synonyms": [
+      "Dęblin"
+    ]
+  },
+  {
+    "value": "Dominek",
+    "synonyms": [
+      "Dominek"
+    ]
+  },
+  {
+    "value": "Domisław",
+    "synonyms": [
+      "Domisław"
+    ]
+  },
+  {
+    "value": "Działdowo",
+    "synonyms": [
+      "Działdowo"
+    ]
+  },
+  {
+    "value": "Dziemiany Kaszubskie",
+    "synonyms": [
+      "Dziemiany Kaszubskie"
+    ]
+  },
+  {
+    "value": "Dzierżążno",
+    "synonyms": [
+      "Dzierżążno"
+    ]
+  },
+  {
+    "value": "Garcz",
+    "synonyms": [
+      "Garcz"
+    ]
+  },
+  {
+    "value": "Garczegorze",
+    "synonyms": [
+      "Garczegorze"
+    ]
+  },
+  {
+    "value": "Garczyn",
+    "synonyms": [
+      "Garczyn"
+    ]
+  },
+  {
+    "value": "Gardna Wielka",
+    "synonyms": [
+      "Gardna Wielka"
+    ]
+  },
+  {
+    "value": "Gdańsk Biskupia Górka",
+    "synonyms": [
+      "Gdańsk Biskupia Górka"
+    ]
+  },
+  {
+    "value": "Gdańsk Brętowo",
+    "synonyms": [
+      "Gdańsk Brętowo"
+    ]
+  },
+  {
+    "value": "Gdańsk Brzeźno",
+    "synonyms": [
+      "Gdańsk Brzeźno"
+    ]
+  },
+  {
+    "value": "Gdańsk Jasień",
+    "synonyms": [
+      "Gdańsk Jasień"
+    ]
+  },
+  {
+    "value": "Gdańsk Kiełpinek",
+    "synonyms": [
+      "Gdańsk Kiełpinek"
+    ]
+  },
+  {
+    "value": "Gdańsk Kolonia",
+    "synonyms": [
+      "Gdańsk Kolonia"
+    ]
+  },
+  {
+    "value": "Gdańsk Lipce",
+    "synonyms": [
+      "Gdańsk Lipce"
+    ]
+  },
+  {
+    "value": "Gdańsk Matarnia",
+    "synonyms": [
+      "Gdańsk Matarnia"
+    ]
+  },
+  {
+    "value": "Gdańsk Niedźwiednik",
+    "synonyms": [
+      "Gdańsk Niedźwiednik"
+    ]
+  },
+  {
+    "value": "Gdańsk Nowe Szkoty",
+    "synonyms": [
+      "Gdańsk Nowe Szkoty"
+    ]
+  },
+  {
+    "value": "Gdańsk Nowy Port",
+    "synonyms": [
+      "Gdańsk Nowy Port"
+    ]
+  },
+  {
+    "value": "Gdańsk Oliwa",
+    "synonyms": [
+      "Gdańsk Oliwa"
+    ]
+  },
+  {
+    "value": "Gdańsk Olszynka",
+    "synonyms": [
+      "Gdańsk Olszynka"
+    ]
+  },
+  {
+    "value": "Gdańsk Orunia",
+    "synonyms": [
+      "Gdańsk Orunia"
+    ]
+  },
+  {
+    "value": "Gdańsk Osowa",
+    "synonyms": [
+      "Gdańsk Osowa"
+    ]
+  },
+  {
+    "value": "Gdańsk Politechnika",
+    "synonyms": [
+      "Gdańsk Politechnika"
+    ]
+  },
+  {
+    "value": "Gdańsk Południowy",
+    "synonyms": [
+      "Gdańsk Południowy"
+    ]
+  },
+  {
+    "value": "Gdańsk Port Lotniczy",
+    "synonyms": [
+      "Gdańsk Port Lotniczy"
+    ]
+  },
+  {
+    "value": "Gdańsk Port Północny",
+    "synonyms": [
+      "Gdańsk Port Północny"
+    ]
+  },
+  {
+    "value": "Gdańsk Rębiechowo",
+    "synonyms": [
+      "Gdańsk Rębiechowo"
+    ]
+  },
+  {
+    "value": "Gdańsk Śródmieście",
+    "synonyms": [
+      "Gdańsk Śródmieście"
+    ]
+  },
+  {
+    "value": "Gdańsk Strzyża",
+    "synonyms": [
+      "Gdańsk Strzyża"
+    ]
+  },
+  {
+    "value": "Gdańsk Św. Wojciech",
+    "synonyms": [
+      "Gdańsk Św. Wojciech"
+    ]
+  },
+  {
+    "value": "Gdańsk Żabianka",
+    "synonyms": [
+      "Gdańsk Żabianka"
+    ]
+  },
+  {
+    "value": "Gdańsk Zaspa Towarowa",
+    "synonyms": [
+      "Gdańsk Zaspa Towarowa"
+    ]
+  },
+  {
+    "value": "Gdynia Chylonia",
+    "synonyms": [
+      "Gdynia Chylonia"
+    ]
+  },
+  {
+    "value": "Gdynia Cisowa",
+    "synonyms": [
+      "Gdynia Cisowa"
+    ]
+  },
+  {
+    "value": "Gdynia Główna",
+    "synonyms": [
+      "Gdynia Główna"
+    ]
+  },
+  {
+    "value": "Gdynia Grabówek",
+    "synonyms": [
+      "Gdynia Grabówek"
+    ]
+  },
+  {
+    "value": "Gdynia Leszczynki",
+    "synonyms": [
+      "Gdynia Leszczynki"
+    ]
+  },
+  {
+    "value": "Gdynia Obłuże Leśne",
+    "synonyms": [
+      "Gdynia Obłuże Leśne"
+    ]
+  },
+  {
+    "value": "Gdynia Obłuże",
+    "synonyms": [
+      "Gdynia Obłuże"
+    ]
+  },
+  {
+    "value": "Gdynia Orłowo",
+    "synonyms": [
+      "Gdynia Orłowo"
+    ]
+  },
+  {
+    "value": "Gdynia Pogórze",
+    "synonyms": [
+      "Gdynia Pogórze"
+    ]
+  },
+  {
+    "value": "Gdynia Port Centralny",
+    "synonyms": [
+      "Gdynia Port Centralny"
+    ]
+  },
+  {
+    "value": "Gdynia Port Oksywie",
+    "synonyms": [
+      "Gdynia Port Oksywie"
+    ]
+  },
+  {
+    "value": "Gdynia Redłowo",
+    "synonyms": [
+      "Gdynia Redłowo"
+    ]
+  },
+  {
+    "value": "Gdynia Rzeźnia",
+    "synonyms": [
+      "Gdynia Rzeźnia"
+    ]
+  },
+  {
+    "value": "Gdynia Stocznia",
+    "synonyms": [
+      "Gdynia Stocznia"
+    ]
+  },
+  {
+    "value": "Gdynia Wielki Kack",
+    "synonyms": [
+      "Gdynia Wielki Kack"
+    ]
+  },
+  {
+    "value": "Gdynia Wzgórze św. Maksymiliana",
+    "synonyms": [
+      "Gdynia Wzgórze św. Maksymiliana"
+    ]
+  },
+  {
+    "value": "Główczyce",
+    "synonyms": [
+      "Główczyce"
+    ]
+  },
+  {
+    "value": "Gniewino",
+    "synonyms": [
+      "Gniewino"
+    ]
+  },
+  {
+    "value": "Godętowo",
+    "synonyms": [
+      "Godętowo"
+    ]
+  },
+  {
+    "value": "Gołubie Kaszubskie",
+    "synonyms": [
+      "Gołubie Kaszubskie"
+    ]
+  },
+  {
+    "value": "Góra Pomorska",
+    "synonyms": [
+      "Góra Pomorska"
+    ]
+  },
+  {
+    "value": "Gościcino Wejherowskie",
+    "synonyms": [
+      "Gościcino Wejherowskie"
+    ]
+  },
+  {
+    "value": "Gościęcino",
+    "synonyms": [
+      "Gościęcino"
+    ]
+  },
+  {
+    "value": "Goszyn",
+    "synonyms": [
+      "Goszyn"
+    ]
+  },
+  {
+    "value": "Grodzisk Mazowiecki",
+    "synonyms": [
+      "Grodzisk Mazowiecki"
+    ]
+  },
+  {
+    "value": "Gumieniec",
+    "synonyms": [
+      "Gumieniec"
+    ]
+  },
+  {
+    "value": "Gutowiec",
+    "synonyms": [
+      "Gutowiec"
+    ]
+  },
+  {
+    "value": "Hel",
+    "synonyms": [
+      "Hel"
+    ]
+  },
+  {
+    "value": "Herby Nowe",
+    "synonyms": [
+      "Herby Nowe"
+    ]
+  },
+  {
+    "value": "Herby Stare",
+    "synonyms": [
+      "Herby Stare"
+    ]
+  },
+  {
+    "value": "Janisławiec",
+    "synonyms": [
+      "Janisławiec"
+    ]
+  },
+  {
+    "value": "Jasień",
+    "synonyms": [
+      "Jasień"
+    ]
+  },
+  {
+    "value": "Jastarnia",
+    "synonyms": [
+      "Jastarnia"
+    ]
+  },
+  {
+    "value": "Jastarnia Wczasy",
+    "synonyms": [
+      "Jastarnia Wczasy"
+    ]
+  },
+  {
+    "value": "Jerzkowice",
+    "synonyms": [
+      "Jerzkowice"
+    ]
+  },
+  {
+    "value": "Jezierzyce Słupskie",
+    "synonyms": [
+      "Jezierzyce Słupskie"
+    ]
+  },
+  {
+    "value": "Jurata",
+    "synonyms": [
+      "Jurata"
+    ]
+  },
+  {
+    "value": "Juszkowo",
+    "synonyms": [
+      "Juszkowo"
+    ]
+  },
+  {
+    "value": "Kalisz Kaszubski",
+    "synonyms": [
+      "Kalisz Kaszubski"
+    ]
+  },
+  {
+    "value": "Kalisz",
+    "synonyms": [
+      "Kalisz"
+    ]
+  },
+  {
+    "value": "Kalwaria Zebrzydowska Lanckorona",
+    "synonyms": [
+      "Kalwaria Zebrzydowska Lanckorona"
+    ]
+  },
+  {
+    "value": "Kamień Pomorski",
+    "synonyms": [
+      "Kamień Pomorski"
+    ]
+  },
+  {
+    "value": "Kamienica Królewska",
+    "synonyms": [
+      "Kamienica Królewska"
+    ]
+  },
+  {
+    "value": "Karlikowo",
+    "synonyms": [
+      "Karlikowo"
+    ]
+  },
+  {
+    "value": "Karsin",
+    "synonyms": [
+      "Karsin"
+    ]
+  },
+  {
+    "value": "Kartuzy",
+    "synonyms": [
+      "Kartuzy"
+    ]
+  },
+  {
+    "value": "Karzcino",
+    "synonyms": [
+      "Karzcino"
+    ]
+  },
+  {
+    "value": "Kawcze",
+    "synonyms": [
+      "Kawcze"
+    ]
+  },
+  {
+    "value": "Kępice",
+    "synonyms": [
+      "Kępice"
+    ]
+  },
+  {
+    "value": "Kępka",
+    "synonyms": [
+      "Kępka"
+    ]
+  },
+  {
+    "value": "Kępno",
+    "synonyms": [
+      "Kępno"
+    ]
+  },
+  {
+    "value": "Kętrzyno",
+    "synonyms": [
+      "Kętrzyno"
+    ]
+  },
+  {
+    "value": "Kiełpin",
+    "synonyms": [
+      "Kiełpin"
+    ]
+  },
+  {
+    "value": "Kiełpinek",
+    "synonyms": [
+      "Kiełpinek"
+    ]
+  },
+  {
+    "value": "Kiełpino Kartuskie",
+    "synonyms": [
+      "Kiełpino Kartuskie"
+    ]
+  },
+  {
+    "value": "Kłanino",
+    "synonyms": [
+      "Kłanino"
+    ]
+  },
+  {
+    "value": "Klęcino",
+    "synonyms": [
+      "Klęcino"
+    ]
+  },
+  {
+    "value": "Kobylnica Słupska",
+    "synonyms": [
+      "Kobylnica Słupska"
+    ]
+  },
+  {
+    "value": "Koczała",
+    "synonyms": [
+      "Koczała"
+    ]
+  },
+  {
+    "value": "Kokoszki",
+    "synonyms": [
+      "Kokoszki"
+    ]
+  },
+  {
+    "value": "Kolbudy",
+    "synonyms": [
+      "Kolbudy"
+    ]
+  },
+  {
+    "value": "Kołczygłówki",
+    "synonyms": [
+      "Kołczygłówki"
+    ]
+  },
+  {
+    "value": "Komnino",
+    "synonyms": [
+      "Komnino"
+    ]
+  },
+  {
+    "value": "Komoszewo",
+    "synonyms": [
+      "Komoszewo"
+    ]
+  },
+  {
+    "value": "Korzybie",
+    "synonyms": [
+      "Korzybie"
+    ]
+  },
+  {
+    "value": "Kościerzyna",
+    "synonyms": [
+      "Kościerzyna"
+    ]
+  },
+  {
+    "value": "Kostkowo",
+    "synonyms": [
+      "Kostkowo"
+    ]
+  },
+  {
+    "value": "Kostroga",
+    "synonyms": [
+      "Kostroga"
+    ]
+  },
+  {
+    "value": "Koszalin",
+    "synonyms": [
+      "Koszalin"
+    ]
+  },
+  {
+    "value": "Krojanty",
+    "synonyms": [
+      "Krojanty"
+    ]
+  },
+  {
+    "value": "Krokowa",
+    "synonyms": [
+      "Krokowa"
+    ]
+  },
+  {
+    "value": "Krzeszna",
+    "synonyms": [
+      "Krzeszna"
+    ]
+  },
+  {
+    "value": "Kurowo",
+    "synonyms": [
+      "Kurowo"
+    ]
+  },
+  {
+    "value": "Kuźnica",
+    "synonyms": [
+      "Kuźnica"
+    ]
+  },
+  {
+    "value": "Łąg Południowy",
+    "synonyms": [
+      "Łąg Południowy"
+    ]
+  },
+  {
+    "value": "Łapino",
+    "synonyms": [
+      "Łapino"
+    ]
+  },
+  {
+    "value": "Łeba",
+    "synonyms": [
+      "Łeba"
+    ]
+  },
+  {
+    "value": "Łebcz",
+    "synonyms": [
+      "Łebcz"
+    ]
+  },
+  {
+    "value": "Lębork Dretowo",
+    "synonyms": [
+      "Lębork Dretowo"
+    ]
+  },
+  {
+    "value": "Lębork Nowy Świat",
+    "synonyms": [
+      "Lębork Nowy Świat"
+    ]
+  },
+  {
+    "value": "Lębork",
+    "synonyms": [
+      "Lębork"
+    ]
+  },
+  {
+    "value": "Lędziechowo",
+    "synonyms": [
+      "Lędziechowo"
+    ]
+  },
+  {
+    "value": "Legionowo",
+    "synonyms": [
+      "Legionowo"
+    ]
+  },
+  {
+    "value": "Legnica",
+    "synonyms": [
+      "Legnica"
+    ]
+  },
+  {
+    "value": "Łękinia",
+    "synonyms": [
+      "Łękinia"
+    ]
+  },
+  {
+    "value": "Łękwica",
+    "synonyms": [
+      "Łękwica"
+    ]
+  },
+  {
+    "value": "Leszno Kartuskie",
+    "synonyms": [
+      "Leszno Kartuskie"
+    ]
+  },
+  {
+    "value": "Leźno",
+    "synonyms": [
+      "Leźno"
+    ]
+  },
+  {
+    "value": "Linia Zakrzewo",
+    "synonyms": [
+      "Linia Zakrzewo"
+    ]
+  },
+  {
+    "value": "Lipuska Huta",
+    "synonyms": [
+      "Lipuska Huta"
+    ]
+  },
+  {
+    "value": "Lipusz",
+    "synonyms": [
+      "Lipusz"
+    ]
+  },
+  {
+    "value": "Lisewo Kaszubskie",
+    "synonyms": [
+      "Lisewo Kaszubskie"
+    ]
+  },
+  {
+    "value": "Łódź Kaliska",
+    "synonyms": [
+      "Łódź Kaliska"
+    ]
+  },
+  {
+    "value": "Łódź Widzew",
+    "synonyms": [
+      "Łódź Widzew"
+    ]
+  },
+  {
+    "value": "Łowicz Główny",
+    "synonyms": [
+      "Łowicz Główny"
+    ]
+  },
+  {
+    "value": "Łubiana",
+    "synonyms": [
+      "Łubiana"
+    ]
+  },
+  {
+    "value": "Lublewo",
+    "synonyms": [
+      "Lublewo"
+    ]
+  },
+  {
+    "value": "Lubnia",
+    "synonyms": [
+      "Lubnia"
+    ]
+  },
+  {
+    "value": "Łuków",
+    "synonyms": [
+      "Łuków"
+    ]
+  },
+  {
+    "value": "Luzino",
+    "synonyms": [
+      "Luzino"
+    ]
+  },
+  {
+    "value": "Maszewo Lęborskie",
+    "synonyms": [
+      "Maszewo Lęborskie"
+    ]
+  },
+  {
+    "value": "Męcikał",
+    "synonyms": [
+      "Męcikał"
+    ]
+  },
+  {
+    "value": "Miastko",
+    "synonyms": [
+      "Miastko"
+    ]
+  },
+  {
+    "value": "Miechucino",
+    "synonyms": [
+      "Miechucino"
+    ]
+  },
+  {
+    "value": "Milanówek",
+    "synonyms": [
+      "Milanówek"
+    ]
+  },
+  {
+    "value": "Miłobądz",
+    "synonyms": [
+      "Miłobądz"
+    ]
+  },
+  {
+    "value": "Mińsk Mazowiecki",
+    "synonyms": [
+      "Mińsk Mazowiecki"
+    ]
+  },
+  {
+    "value": "Mojusz",
+    "synonyms": [
+      "Mojusz"
+    ]
+  },
+  {
+    "value": "Moszczenica Pomorska",
+    "synonyms": [
+      "Moszczenica Pomorska"
+    ]
+  },
+  {
+    "value": "Mrzezino",
+    "synonyms": [
+      "Mrzezino"
+    ]
+  },
+  {
+    "value": "Narzym",
+    "synonyms": [
+      "Narzym"
+    ]
+  },
+  {
+    "value": "Nawcz",
+    "synonyms": [
+      "Nawcz"
+    ]
+  },
+  {
+    "value": "Niepoczołowice",
+    "synonyms": [
+      "Niepoczołowice"
+    ]
+  },
+  {
+    "value": "Niestępowo",
+    "synonyms": [
+      "Niestępowo"
+    ]
+  },
+  {
+    "value": "Niezabyszewo",
+    "synonyms": [
+      "Niezabyszewo"
+    ]
+  },
+  {
+    "value": "Nieznachowo",
+    "synonyms": [
+      "Nieznachowo"
+    ]
+  },
+  {
+    "value": "Nowa Brda",
+    "synonyms": [
+      "Nowa Brda"
+    ]
+  },
+  {
+    "value": "Nowa Wieś Człuchowska",
+    "synonyms": [
+      "Nowa Wieś Człuchowska"
+    ]
+  },
+  {
+    "value": "Nowa Wieś Lęborska",
+    "synonyms": [
+      "Nowa Wieś Lęborska"
+    ]
+  },
+  {
+    "value": "Obliwice",
+    "synonyms": [
+      "Obliwice"
+    ]
+  }
+]

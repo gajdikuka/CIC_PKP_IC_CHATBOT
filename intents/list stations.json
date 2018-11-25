@@ -1,0 +1,28 @@
+{
+  "id": "437a12ad-9cb2-4717-b60b-ddd320fa7264",
+  "name": "list stations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Aleksandrów Kujawski\nBabi Dół\nBarcino\nBargędzino\nBarnowo\nBiałogard\nBiałystok\nBielkowo\nBielsko Pomorskie\nBielsko-Biała Główna\nBiesowice\nBiskupnica\nBińcze\nBolesławiec\nBorkowo\nBorzytuchom\nBoża Wola\nBożepole Wielkie\nBrusy\nBrwinów\nBrzeźno Człuchowskie\nBukowo Człuchowskie\nBydgoszcz Główna\nBytów\nBór\nBąk\nBędziechowo\nBłonie\nCecenowo\nCewice\nChałupy\nChoczewko\nChoczewo\nChojnice\nChorzew Siemkowice\nChoćmirowo\nCiecholub\nCieplewo\nCzarna Dąbrówka\nCzarne\nCzechowice Dziedzice\nCzersk\nCzosnowo\nCzysta\nCzęstochowa\nCzłuchów\nDamnica\nDargoleza\nDominek\nDomisław\nDziałdowo\nDziemiany Kaszubskie\nDzierżążno\nDąbrowa Górnicza\nDąbrówka Bytowska\nDęblin\nElbląg\nGarcz\nGarczegorze\nGarczyn\nGardna Wielka\nGdańsk Biskupia Górka\nGdańsk Brzeźno\nGdańsk Brętowo\nGdańsk Główny\nGdańsk Jasień\nGdańsk Kiełpinek\nGdańsk Kolonia\nGdańsk Lipce\nGdańsk Matarnia\nGdańsk Niedźwiednik\nGdańsk Nowe Szkoty\nGdańsk Nowy Port\nGdańsk Oliwa\nGdańsk Olszynka\nGdańsk Orunia\nGdańsk Osowa\nGdańsk Politechnika\nGdańsk Port Lotniczy\nGdańsk Port Północny\nGdańsk Południowy\nGdańsk Rębiechowo\nGdańsk Strzyża\nGdańsk Wrzeszcz\nGdańsk Zaspa Towarowa\nGdańsk Śródmieście\nGdańsk Św. Wojciech\nGdańsk Żabianka\nGdynia Chylonia\nGdynia Cisowa\nGdynia Grabówek\nGdynia Główna\nGdynia Główna\nGdynia Leszczynki\nGdynia Obłuże\nGdynia Obłuże Leśne\nGdynia Orłowo\nGdynia Pogórze\nGdynia Port Centralny\nGdynia Port Oksywie\nGdynia Redłowo\nGdynia Rzeźnia\nGdynia Stocznia\nGdynia Wielki Kack\nGdynia Wzgórze św. Maksymiliana\nGliwice\nGniewino\nGodętowo\nGorzów Wielkopolski\nGoszyn\nGołubie Kaszubskie\nGościcino Wejherowskie\nGościęcino\nGrodzisk Mazowiecki\nGrodzisk Mazowiecki\nGumieniec\nGutowiec\nGóra Pomorska\nGłówczyce\nHel\nHerby Nowe\nHerby Stare\nInowrocław\nIława Główna\nJanisławiec\nJasień\nJastarnia\nJastarnia Wczasy\nJelenia Góra\nJerzkowice\nJezierzyce Słupskie\nJurata\nJuszkowo\nKalisz\nKalisz Kaszubski\nKalwaria Zebrzydowska Lanckorona\nKamienica Królewska\nKamień Pomorski\nKarlikowo\nKarsin\nKartuzy\nKarzcino\nKatowice\nKawcze\nKielce\nKiełpin\nKiełpinek\nKiełpino Kartuskie\nKlęcino\nKobylnica Słupska\nKoczała\nKokoszki\nKolbudy\nKomnino\nKomoszewo\nKorzybie\nKostkowo\nKostroga\nKoszalin\nKoszalin\nKołczygłówki\nKołobrzeg\nKościerzyna\nKraków Główny\nKrojanty\nKrokowa\nKrzeszna\nKurowo\nKutno\nKuźnica\nKędzierzyn Koźle\nKępice\nKępka\nKępno\nKętrzyno\nKłanino\nLegionowo\nLegnica\nLeszno\nLeszno Kartuskie\nLeźno\nLinia Zakrzewo\nLipuska Huta\nLipusz\nLisewo Kaszubskie\nLublewo\nLublin\nLubliniec\nLubnia\nLuzino\nLębork\nLębork Dretowo\nLębork Nowy Świat\nLędziechowo\nMalbork\nMaszewo Lęborskie\nMiastko\nMiechucino\nMilanówek\nMiłobądz\nMińsk Mazowiecki\nMińsk Mazowiecki\nMojusz\nMoszczenica Pomorska\nMrzezino\nMyszków\nMęcikał\nNarzym\nNawcz\nNiepoczołowice\nNiestępowo\nNiezabyszewo\nNieznachowo\nNowa Brda\nNowa Wieś Człuchowska\nNowa Wieś Lęborska\nObliwice\nOborniki Śląskie\nOlsztyn Główny\nOpole Główne\nOstrów Wielkopolski\nOtwock\nOświęcim\nPiotrków Trybunalski\nPiła Główna\nPoznań Główny\nPrzemyśl Główny\nRadom\nRybnik\nRzeszów Główny\nSiedlce\nSkierniewice\nSopot\nStargard Szczeciński\nSzczecin Główny\nSłupsk\nTarnowskie Góry\nTarnów\nTczew\nToruń Główny\nTrzebinia\nTychy\nTłuszcz\nWarsaw Central\nWarszawa Gdańska\nWarszawa Ochota\nWarszawa Powiśle\nWarszawa Stadion\nWarszawa Wileńska\nWarszawa Wschodnia\nWarszawa Zachodnia\nWarszawa Śródmieście PKP\nWrocław Główny\nWłocławek\nZawiercie\nZielona Góra\nŁapino\nŁeba\nŁebcz\nŁowicz Główny\nŁowicz Główny\nŁubiana\nŁuków\nŁódź Fabryczna\nŁódź Kaliska\nŁódź Kaliska\nŁódź Widzew\nŁąg Południowy\nŁękinia\nŁękwica\nŻmigród\nŻywiec"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543117757,
+  "fallbackIntent": false,
+  "events": []
+}

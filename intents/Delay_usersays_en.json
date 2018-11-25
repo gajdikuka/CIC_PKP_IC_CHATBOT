@@ -1,0 +1,59 @@
+[
+  {
+    "id": "9001ca95-89ce-47e7-aa69-851e9cc912ad",
+    "data": [
+      {
+        "text": "Train delay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543082286
+  },
+  {
+    "id": "3f3c27ca-c90e-4883-adc1-8e103042f7a8",
+    "data": [
+      {
+        "text": "Is my train on ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543082286
+  },
+  {
+    "id": "d548c039-4ed4-480e-a7aa-fdd9059858e1",
+    "data": [
+      {
+        "text": "Is my train late?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543082255
+  },
+  {
+    "id": "3eb1e474-e90e-4973-94fd-3a33ca9f0f07",
+    "data": [
+      {
+        "text": "Delay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543082255
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "de82098d-3c8c-4410-be86-cad7b5765b37",
+    "data": [
+      {
+        "text": "i want to travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543118279
+  },
+  {
+    "id": "66499dbb-34d2-47b8-80b2-ceed21d84564",
+    "data": [
+      {
+        "text": "i want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543118279
+  },
+  {
+    "id": "de203ceb-9327-4b04-b8ff-c4697bc69365",
+    "data": [
+      {
+        "text": "i want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "warsaw",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Bielkowo",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "december",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543118279
+  },
+  {
+    "id": "8ebdea44-d6c7-4731-8614-9174a3282d33",
+    "data": [
+      {
+        "text": "Dawn",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "June",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "55e83cd2-31a0-49f7-928d-3dfc61562664",
+    "data": [
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "2f4734e1-05e0-4f3c-9fd0-b22dba58b386",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "07fd92e6-6fd8-41c0-b549-da91a7d772a2",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dawn",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "October",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "a39d9c86-0eea-4627-8544-18e04bb0e2e4",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "October",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dawn",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "903f4811-af88-4189-b7a2-a135cb6692e1",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "October",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "a2bf6179-92af-4577-a7ea-26cab20397bc",
+    "data": [
+      {
+        "text": "Dawn",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "6f4f08c8-3136-4022-bb99-373169f88422",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dawn",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "a82cb25c-16c4-4f37-9ac3-95c6a378322f",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "October",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "a21d1414-2cfa-4296-84b8-d0ec8416bf79",
+    "data": [
+      {
+        "text": "November",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "f21876ae-0490-4689-ac50-c4991823bde7",
+    "data": [
+      {
+        "text": "November",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543116982
+  },
+  {
+    "id": "e173d3c4-d055-4bc1-a0cd-312096bca0c0",
+    "data": [
+      {
+        "text": "noon",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543114867
+  },
+  {
+    "id": "4e7e4589-0e77-4ae3-9331-4cadae83fc65",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "DayParts",
+        "meta": "@DayParts",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543111585
+  },
+  {
+    "id": "cf18a730-f55a-4091-b76e-f4ed7df24d56",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "Months",
+        "meta": "@Months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543111585
+  },
+  {
+    "id": "fa9af190-94c3-4fd2-b7c7-09559446a39c",
+    "data": [
+      {
+        "text": "I want to go from ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543106847
+  },
+  {
+    "id": "01ea4d42-8673-4513-b89c-2a5252f6949d",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543106847
+  },
+  {
+    "id": "3113134c-4d45-4fbb-8517-ef3f6eea72f9",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543106847
+  },
+  {
+    "id": "b9541024-4b3d-4841-b7a7-8c99a46b3f3c",
+    "data": [
+      {
+        "text": "I want to go from ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543104092
+  },
+  {
+    "id": "28ba685c-4413-48fa-8722-cdefe7581dbd",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543106847
+  },
+  {
+    "id": "c2551db3-7252-46cb-ab83-3e82b3b9c0f9",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Warsaw",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543105403
+  },
+  {
+    "id": "0d6f2f29-93ad-4687-82ce-cb7ffd6d80a2",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Warsaw",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543105403
+  },
+  {
+    "id": "280edf29-d83f-495b-908a-a308da4ae0b2",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Warsaw",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543105403
+  },
+  {
+    "id": "8a0fd0ca-6449-4300-a235-4f574f5e375d",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Warsaw",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543105403
+  },
+  {
+    "id": "77c5707b-9947-4cbd-84fc-cb968fa3ba31",
+    "data": [
+      {
+        "text": "trains from ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "2018-11-28",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543104092
+  },
+  {
+    "id": "97d9219e-be27-4039-b139-7dc240028748",
+    "data": [
+      {
+        "text": "I would like to go from ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "2018-11-28",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543104092
+  },
+  {
+    "id": "e224c49a-9bbb-40dc-bc7b-0788211a3ee4",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "2018-11-28",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543104092
+  },
+  {
+    "id": "d773d428-5b84-4503-b794-8859f5ec4ab6",
+    "data": [
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018-11-28",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543103721
+  },
+  {
+    "id": "c6ca43c4-e6ba-4a8c-b025-769b8f34147a",
+    "data": [
+      {
+        "text": "pkp ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018-11-28",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543097258
+  },
+  {
+    "id": "2ca622e4-fcf3-4534-a183-000351bb9ad7",
+    "data": [
+      {
+        "text": "pkp ",
+        "userDefined": false
+      },
+      {
+        "text": "Katowice",
+        "alias": "city-1",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kalisz",
+        "alias": "city-2",
+        "meta": "@Stations",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26-11-2018",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543097258
+  }
+]
